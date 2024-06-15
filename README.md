@@ -5,10 +5,15 @@ An Web Application developed using Streamlit to predict the suitable crop for a 
 ![ML1](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/fd4973c1-e381-4689-8491-581367363033)
 
 # Architecture used for Analysis of Soil Nutrients using IOT
+![iot](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/5fba3095-5615-417f-908a-a3d6ba212e9a)
+
 
 # Architecture used for Satellite Imaging
+![satelliteimage](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/0377b46c-3531-45a1-a106-9c067241ef3b)
+
 
 # Overall Architecture
+![overall](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/82519637-dfdf-4a12-b19a-50a23fa5e8a3)
 
 # Dataset
 The data used to train the model was collected from the Crop Prediction dataset. The dataset consists of 2200 samples of 22 different crops whose predictions are made using 7 features: nitrogen, phosphorus, potassium, and pH content of the soil, temperature, humidity and rainfall. The dataset is perfectly balanced, with each crop having 100 samples. 
