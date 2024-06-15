@@ -16,7 +16,7 @@ An Web Application developed using Streamlit to predict the suitable crop for a 
 
     * This is the Output of IOT Component
 ![IoT-Output](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/904ccbe8-f02a-4ab8-b280-6fad8559ba98)
-This is the Output of IOT Component
+
 
 
 # Architecture used for Satellite Imaging
