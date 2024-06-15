@@ -20,7 +20,15 @@ The data used to train the model was collected from the Crop Prediction dataset.
 ![webui-2](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/7bf83012-b5ea-4513-96d4-2685defad794)
 
 # OUTPUT
-We need to upload Sentinal and landsat images seperately. 
+We need to upload Sentinal and landsat images seperately.
+![output1](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/7e77d2fe-3e7b-4680-b7ee-c4f3a740f053)
+![output2](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/0f12e84e-1c3c-4fde-aa96-9da12a0c90f9)
+
+
 Step 1: We provide Sentinal image to get the analysis of soil nutrients such as " nitrogen, phosphorus, potassium, temperature, humidity ". 
+
 Step 2: We Provide Landsat image to get the analysis of soil nutrients such as " Ph ".
-Step 3: Click Predict Button to get the Crop Prediction result.
+
+Step 3: Provide Rainfall Input.
+
+Step 4: Click Predict Button to get the Crop Prediction result.
