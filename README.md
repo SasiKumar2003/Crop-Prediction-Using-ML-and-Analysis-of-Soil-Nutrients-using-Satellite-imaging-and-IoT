@@ -62,7 +62,7 @@ Rainfall - rainfall in mm
 
 * Insert the necessary ML models as per the code and change the file path accordingly. (as per ML models module)
 
-*Then after the new.py runs successfully follow the Steps provided in the OUTPUT of this readme.   
+* Then after the new.py runs successfully follow the Steps provided in the OUTPUT of this readme.   
 
 # Accuracy of Crop Prediction Algorithms
 ![accuracy](https://github.com/SasiKumar2003/Crop-Prediction-Using-ML-and-Analysis-of-Soil-Nutrients-using-Satellite-imaging-and-IoT/assets/88201153/14137873-d79b-4ea4-94c5-b259bbb428cc)
